@@ -1,0 +1,2 @@
+# ShitBot
+wakaranai
